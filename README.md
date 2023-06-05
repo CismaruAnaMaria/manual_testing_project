@@ -12,5 +12,7 @@ Tool used: **Jira, Zephyr Squad, Postman, SQL Workbench, Github.**
 
 # Functional Specification
 * The business requirments can be found [here](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx).
-![image](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/7ff69070-bc54-416d-8f65-1ff843a7fe48)
 
+The **XYZ Bank** application it's an application created for the usability both of the costumers and the bank manager. With this app the customer should be able to check his bank account and see the transactions he has made over one period, the credit balance and he can deposit or withdrawal money to and from his bank account.
+![image](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/7ff69070-bc54-416d-8f65-1ff843a7fe48)
+![epic2](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/fbcb1abe-798e-44f6-9e13-85f5fb5e823f)
