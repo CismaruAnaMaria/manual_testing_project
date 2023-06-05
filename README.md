@@ -10,3 +10,6 @@ The final project will be split into 2 sections: **Testing section** (where trac
      
 Tool used: **Jira, Zephyr Squad, Postman, SQL Workbench, Github.**
 
+# Functional Specification
+* The business requirments can be found [here](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx).
+![image]()
