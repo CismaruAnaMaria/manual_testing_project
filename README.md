@@ -12,4 +12,5 @@ Tool used: **Jira, Zephyr Squad, Postman, SQL Workbench, Github.**
 
 # Functional Specification
 * The business requirments can be found [here](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx).
-![image]()
+![image](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/7ff69070-bc54-416d-8f65-1ff843a7fe48)
+
