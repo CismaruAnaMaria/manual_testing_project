@@ -46,4 +46,4 @@ The testing allocated time and financial resources will be defined, along with t
 * Test not in scope: Non-functional testing - Performance Testing, Stress testing, Volume Testing, compatibility testing with multiple browsers, Mobile testing  and Functional Testing using White-box Testing Tehniques. 
 #### 1.1.5. Risks detected
 * Project risks: developers not availabe to develop the app on time to be testing and fix the finded bugs, vacancy, lack of people, non functional environment, illness, too many juniors both testers and develpers;
-* Product risks: validation constraints on the fields might be too restrictive to the end-user
+* Product risks: operational risk, validation risk, price risks, poor usability and quality of the application.
