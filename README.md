@@ -20,3 +20,17 @@ The **XYZ Bank** application it's an application created for the usability both 
 # **1. Testing Section**
 ## **1.1. Test planning**
 * The Test Planning is designed to describe all the details of the testing of the [XYZ Bank application](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
+
+This section - test planning -will identify the items that will be tested, the futures to be tested, the types of the testing that will be performed and it will also define the entrence and exist criteria that needs to be completed, the assignee roles for the project and all the human resorces that will be in charge. 
+The testing allocated time and financial resources will be defined, along with the risk associated with the plan.
+
+#### 1.1.1. Roles assigned for the testing project and the human resource 
+* Scrum manager - Ana-Maria Cismaru
+* Software Tester - Ana-Maria Cismaru
+* Review leader - Ana-Maria Cismaru
+* Software architect - Jane Doe
+* Developer - Jane Doe
+#### 1.1.2. Entry criteria defined
+* Roles and human resource are alocated
+* The sistem is up and running
+* User is created
