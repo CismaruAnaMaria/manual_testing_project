@@ -34,3 +34,13 @@ The testing allocated time and financial resources will be defined, along with t
 * Roles and human resource are alocated
 * The sistem is up and running
 * User is created
+#### 1.1.3. Exit criteria defined
+* All test cases created are executed
+* At least 80% of the executed test cases have the status passed
+* There is a maximum of 4 high rated bugs opened and they are assignee to the developer to be fixed
+* There is a maximum of 10 open bugs and no critical bug can be opened.
+* The regression test needs to be done
+* Testing deadline 30.06.2023
+#### 1.1.4. Test scope
+* Test in scope: Review and functional testing using black box, test design techniques based on experience testing, GUI testing, Api testing
+* Test not in scope: Non-functional testing - Performance Testing, Stress testing, Volume Testing, compatibility testing with multiple browsers, Mobile testing  and Functional Testing using White-box Testing Tehniques. 
