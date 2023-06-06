@@ -19,3 +19,4 @@ The **XYZ Bank** application it's an application created for the usability both 
 ![epic 2 1 1](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/170d50f5-8e00-4a15-acb0-d879ad8b75ce)
 # **1. Testing Section**
 ## **1.1. Test planning**
+* The Test Planning is designed to describe all the details of the testing of the [XYZ Bank application](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
