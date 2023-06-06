@@ -42,8 +42,16 @@ The testing allocated time and financial resources will be defined, along with t
 * The regression test needs to be done
 * Testing deadline 30.06.2023
 #### 1.1.4. Test scope
-* Test in scope: Review and functional testing using black box, test design techniques based on experience testing, GUI testing, Api testing
+* Test in scope: Review and functional testing using black box, test design techniques based on experience testing, GUI testing, regression testing, Api testing
 * Test not in scope: Non-functional testing - Performance Testing, Stress testing, Volume Testing, compatibility testing with multiple browsers, Mobile testing  and Functional Testing using White-box Testing Tehniques. 
 #### 1.1.5. Risks detected
 * Project risks: developers not availabe to develop the app on time to be testing and fix the finded bugs, vacancy, lack of people, non functional environment, illness, too many juniors both testers and develpers;
 * Product risks: operational risk, validation risk, price risks, poor usability and quality of the application.
+#### 1.1.6. Evaluating entry criteria
+
+The entry criterias defined in the Test Planning phase have been achieved and the test process continued.
+
+## **1.2. Test Monitoring and control**
+
+It was done by generating periodic reports that reflect the current status of the tests.
+
