@@ -51,7 +51,23 @@ The testing allocated time and financial resources will be defined, along with t
 
 The entry criterias defined in the Test Planning phase have been achieved and the test process continued.
 
-## **1.2. Test Monitoring and control**
+## ** 1.2. Test Monitoring and control**
 
 It was done by generating periodic reports that reflect the current status of the tests.
 
+## ** 1.3. Test Analysis**
+* The above [requirments](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx) were reviewd for the Ui testing and for the Api testing I've have followed the [documentation]() and work with it.
+During the review, some defects were raised and you can check them here:
+After the defects was fixed, the testing process was executed and following the test conditions above:
+* Check if you can login into the application;
+* Check if the bank manager can add a customer;
+* Check if the bank manager can open an account;
+* Check if the new customer is added to the customer list;
+* Check if the bank manager cand delete a customer;
+* Check if the customer can login;
+* Check if customer has a list with his transactions;
+* Check if customer can see transactions between a period known;
+* Check if customer can make a deposit;
+* Check if customer can make a withdrawal;
+
+* 
