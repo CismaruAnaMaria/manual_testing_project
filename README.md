@@ -69,5 +69,7 @@ After the defects was fixed, the testing process was executed and following the 
 * Check if customer can see transactions between a period known;
 * Check if customer can make a deposit;
 * Check if customer can make a withdrawal;
-
+* Check if new currency can be added;
+* Check add, delete, reset actions via Ui;
+* Check the Post, Get, Patch, Delete for the Api testing using Postman tool;
 * 
