@@ -57,8 +57,11 @@ It was done by generating periodic reports that reflect the current status of th
 
 ## ** 1.3. Test Analysis**
 * The above [requirments](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx) were reviewd for the Ui testing and for the Api testing I've have followed the [documentation]() and work with it.
-During the review, some defects were raised and you can check them here:
-After the defects was fixed, the testing process was executed and following the test conditions above:
+* 
+!During the review, some defects were raised and you can check them here:![MTFP-36](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/a41ecfdc-2f5c-4d68-a49d-67cbc10ba7ef)
+
+* After the defects was fixed, a new documentation was release as you can check here: [New documentation for  xyz bank.docx](https://github.com/CismaruAnaMaria/manual_testing_project/files/11713229/New.documentation.for.xyz.bank.docx) and the testing process was executed and following the test conditions above:
+
 * Check if you can login into the application;
 * Check if the bank manager can add a customer;
 * Check if the bank manager can open an account;
@@ -72,4 +75,3 @@ After the defects was fixed, the testing process was executed and following the 
 * Check if new currency can be added;
 * Check add, delete, reset actions via Ui;
 * Check the Post, Get, Patch, Delete for the Api testing using Postman tool;
-* 
