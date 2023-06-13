@@ -163,6 +163,10 @@ Bug report list:
 
 *Full regression testing is needed after the bugs are fixed.*
 
+* API tests were written in Postman and contains GET, POST and DELETE HTTP methods. You can check collection and environment With GET token call i stored the bearer token into a variable as current value to be sure will not be shared or stored in cloud.
+
+* All calls contain few tests too. The tests are checking: returned status (as 200 or 400/404 for negative tests) and the response body. For more details please import collection [here](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Simple%20Book%20API.postman_collection.json)
+
 ## **1.7. Test completion
 * All the exit criteria has been passed.
 * There are no more then 4 bugs with high severity and priority open
