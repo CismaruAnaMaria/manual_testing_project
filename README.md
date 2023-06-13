@@ -83,7 +83,9 @@ It was done by generating periodic reports that reflect the current status of th
 * Check the Post, Get, Patch, Delete for the Api testing using Postman tool;
 ## **1.4. Test Design**
 Functional test cases were created in Zephyr Squad. Based on the analysis of the documentation, the test case design used for generating test cases are:
-Test cases:
+* Black box testing - use testing;
+* Experience based testing: exploratory testing and check list based testing.
+*Test cases:*
 * [MTFP-65] Verify if a customer can make more then 2 withdrawals/24 h
 * [MTFP-64] Verify if a customer can withdrawal an amount that is less then his current balance
 * [MTFP-63] Verify if a customer can withdrawal a bigger amount then his bank current balance
@@ -110,4 +112,6 @@ Test cases:
 * [MTFP-39] Verify if you can add a customer using valid details
 * [MTFP-37] Verify if the Add customer subsection has all the required fields
 * [MTFP-33] Verify if you can login into the XYZ bank app in the bank manager section
+
+* All the test cases with steps can be viewed here: [ZFJ-issue-export-06-12-2023-242ac113-0001.xlsx](https://github.com/CismaruAnaMaria/manual_testing_project/files/11735657/ZFJ-issue-export-06-12-2023-242ac113-0001.xlsx)
 
