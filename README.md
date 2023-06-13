@@ -172,8 +172,8 @@ Bug report list:
 * There are no more then 4 bugs with high severity and priority open
 * 78% of the executed test cases have the status passed
 * There were created and executed 26 test cases
-* Acording to the execucted test cases, 8 bugs were found and bug's reports were created 
-
+* Acording to the execucted test cases, 8 bugs were found and bug's reports were created
+* The [Manual Testing Final Project Backlog](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Jira.csv)
 * The traceability matrix was created and can be found here: 
 [Forward Traceability_13_6_2023.xlsx](https://github.com/CismaruAnaMaria/manual_testing_project/files/11736140/Forward.Traceability_13_6_2023.xlsx)
 
@@ -184,7 +184,7 @@ Bug report list:
 The Dashboard was created and you can see it below:
 ![DASHBOARD](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/afa88e2d-f241-4dad-9a21-47ccab090689)
 
-* The [Manual Testing Final Project Backlog](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Jira.csv)
+
 
 ![TEST EXECUTION](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/95a4f9d0-681f-4e68-bc31-e2d5017c5a8b)
 
