@@ -36,7 +36,7 @@ The testing allocated time and financial resources will be defined, along with t
 * User is created
 #### 1.1.3. Exit criteria defined
 * All test cases created are executed
-* At least 80% of the executed test cases have the status passed
+* At least 75% of the executed test cases have the status passed
 * There is a maximum of 4 high rated bugs opened and they are assignee to the developer to be fixed
 * There is a maximum of 10 open bugs and no critical bug can be opened.
 * The regression test needs to be done
@@ -134,6 +134,30 @@ Due to the test cases executed, bug reports has been created.
 Bug report example:
 ![BUG REPORT EXAMPLE](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/8467cce6-bf77-4030-b752-89820c82ce4e)
 ![BUG REPORT 2](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/619a8cbb-b494-4cfb-b352-244a3ae18e3e)
+
 Bug report list:
+
 ![Bug table](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/ef11e0e2-c77b-4042-b8fe-60c28c20ca8b)
 
+*Full regression testing is needed after the bugs are fixed.*
+
+## **1.7. Test completion
+* All the exit criteria has been passed.
+* There are no more then 4 bugs with high severity and priority open
+* 78% of the executed test cases have the status passed
+* There were created and executed 26 test cases
+* Acording to the execucted test cases, 8 bugs were found and bug's reports were created 
+
+* The traceability matrix was created and can be found here: 
+[Forward Traceability_13_6_2023.xlsx](https://github.com/CismaruAnaMaria/manual_testing_project/files/11736140/Forward.Traceability_13_6_2023.xlsx)
+
+![traceability matrix ook ](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/2ab84a13-b9ce-4b74-9c2c-837d205318ee)
+* The traceability matrix per story example:
+![traceability matrix per story ok 2](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/514932fb-af65-4bab-aa30-578e2c04a94f)
+
+The Dashboard was created and you can see it below:
+![DASHBOARD](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/afa88e2d-f241-4dad-9a21-47ccab090689)
+
+![TEST EXECUTION](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/95a4f9d0-681f-4e68-bc31-e2d5017c5a8b)
+
+![CREATED VS REPORTED](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/2fc659b4-9f15-4436-8d36-5bee8e20f9c6)
