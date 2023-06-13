@@ -125,4 +125,15 @@ The following elements are needed to be ready before the test execution phase be
 * Postman collection with the dependents API methods was created
 * Authorization token was created for accessing the API.
 
+## ** 1.6. Test execution
+Test cases are executed on the created test Cycle. Check summaries bellow:
+
+![cycle summary](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/0163d28a-eb1f-402e-8ccb-7ef1bd8242eb)
+
+Due to the test cases executed, bug reports has been created.
+Bug report example:
+![BUG REPORT EXAMPLE](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/8467cce6-bf77-4030-b752-89820c82ce4e)
+![BUG REPORT 2](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/619a8cbb-b494-4cfb-b352-244a3ae18e3e)
+Bug report list:
+![Bug table](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/ef11e0e2-c77b-4042-b8fe-60c28c20ca8b)
 
