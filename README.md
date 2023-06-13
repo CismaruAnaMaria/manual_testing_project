@@ -55,6 +55,12 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 It was done by generating periodic reports that reflect the current status of the tests.
 
+![Jira board print 1Untitled](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/63d0395b-b837-466e-b4a9-ff6c5eeead30)
+
+
+
+![TEST CASES](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/7ca93a57-bb85-48bd-9cb6-2846ae7536d0)
+
 ## ** 1.3. Test Analysis**
 * The above [requirments](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx) were reviewd for the Ui testing and for the Api testing I've have followed the [documentation]() and work with it.
 * 
@@ -75,3 +81,33 @@ It was done by generating periodic reports that reflect the current status of th
 * Check if new currency can be added;
 * Check add, delete, reset actions via Ui;
 * Check the Post, Get, Patch, Delete for the Api testing using Postman tool;
+## **1.4. Test Design**
+Functional test cases were created in Zephyr Squad. Based on the analysis of the documentation, the test case design used for generating test cases are:
+Test cases:
+* [MTFP-65] Verify if a customer can make more then 2 withdrawals/24 h
+* [MTFP-64] Verify if a customer can withdrawal an amount that is less then his current balance
+* [MTFP-63] Verify if a customer can withdrawal a bigger amount then his bank current balance
+* [MTFP-62] Verify if a customer can make a 0 value deposit
+* [MTFP-61] Verify if a customer can make a deposit with minimum 1 Euro of the equivalent of 1 Euro
+* [MTFP-60] Check if the customer can go back to the Home menu by pressing the Back button
+* [MTFP-59] Verify if a customer can reset all his transactions using the Reset button
+* [MTFP-58] Check if you can select a date-time from the calendar to show the transactions details
+* [MTFP-57] Verify if the Transaction subsection has all the required fields inserted
+* [MTFP-56] Check if the customer can logout from the app using the Logout button
+* [MTFP-55] Verify if the customer can login into the XYZ Bank app
+* [MTFP-53] Verify if you can Delete a customer from the database using the Delete button
+* [MTFP-52] Verify if the Customer subsection has all the required fields inserted
+* [MTFP-51] Verify if you can search a customer into the search customer field, Customers subsection, Bank Manager section
+* [MTFP-48] Verify if you can open an account entering valid customer and a currency
+* [MTFP-47] Verify if you can open an account without selecting a currency
+* [MTFP-46] Verify if you can open an account without selecting the customer
+* [MTFP-45] Verify if open account is possible in any currency that are in use in the world at this time
+* [MTFP-44] Verify if the Open Account subsection has all the required fields
+* [MTFP-43] Verify if you can add customer duplicating another that already exists
+* [MTFP-42] Verify if you can add a customer without complete the Post Code field
+* [MTFP-41] Verify if you can add a customer without complete the LastName field
+* [MTFP-40] Verify if you can add a customer without complete the First Name field
+* [MTFP-39] Verify if you can add a customer using valid details
+* [MTFP-37] Verify if the Add customer subsection has all the required fields
+* [MTFP-33] Verify if you can login into the XYZ bank app in the bank manager section
+
