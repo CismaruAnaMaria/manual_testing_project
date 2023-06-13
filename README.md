@@ -5,6 +5,7 @@ The scope of the final project is to use and show all the knowledge I have learn
 
 I have created my own documentation in order to find bugs and static testing issues. The application come without any original documentation.
 * Documentation: [Documentation for XYZ Bank](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx).
+* API documentation: [Simple Book Api Documentation](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
 
 The final project will be split into 2 sections: **Testing section** (where tracking process will be done in Jira and Zephyr tools) and the **SQL Section**. The testing section will also contain  2 section, GUI testing and Api testing that will be done in Postman tool.
      
@@ -57,9 +58,9 @@ It was done by generating periodic reports that reflect the current status of th
 
 ![Jira board print 1Untitled](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/63d0395b-b837-466e-b4a9-ff6c5eeead30)
 
-
-
 ![TEST CASES](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/7ca93a57-bb85-48bd-9cb6-2846ae7536d0)
+
+![Run Collection Postman](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/POSTMAN%20RUN%20COLLECTION.jpg)
 
 ## ** 1.3. Test Analysis**
 * The above [requirments](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx) were reviewd for the Ui testing and for the Api testing I've have followed the [documentation]() and work with it.
@@ -113,7 +114,28 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 * [MTFP-37] Verify if the Add customer subsection has all the required fields
 * [MTFP-33] Verify if you can login into the XYZ bank app in the bank manager section
 
-* All the test cases with steps can be viewed here: [ZFJ-issue-export-06-12-2023-242ac113-0001.xlsx](https://github.com/CismaruAnaMaria/manual_testing_project/files/11735657/ZFJ-issue-export-06-12-2023-242ac113-0001.xlsx)
+ #### All the test cases with steps can be viewed here: [ZFJ-issue-export-06-12-2023-242ac113-0001.xlsx](https://github.com/CismaruAnaMaria/manual_testing_project/files/11735657/ZFJ-issue-export-06-12-2023-242ac113-0001.xlsx)
+
+#### Api Test Cases:
+
+* [GET] API Status
+* [GET] Negative testing - Api Status
+* [POST] API Clients 
+* [POST] Negative testing - API Clients 
+* [GET] List of books
+* [GET] Single book
+* [GET] Negative testing - Single book
+* [POST] Order book
+* [POST] Negative testing - Order book
+* [GET] Get all book orders
+* [GET] Negative testing - Get all book orders
+* [GET] Get an order
+* [GET] Negative testing - Get an order
+* [Delete] Delete order
+* [Delete] Negative testing - Delete order
+
+
+#### All the Api test cases using Postman tool can be viewed [here](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Simple%20Book%20API.postman_collection.json)
 
 ## ** 1.5. Test implementation
 The following elements are needed to be ready before the test execution phase begins:
