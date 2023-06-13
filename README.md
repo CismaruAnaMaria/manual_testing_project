@@ -115,3 +115,14 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 * All the test cases with steps can be viewed here: [ZFJ-issue-export-06-12-2023-242ac113-0001.xlsx](https://github.com/CismaruAnaMaria/manual_testing_project/files/11735657/ZFJ-issue-export-06-12-2023-242ac113-0001.xlsx)
 
+## ** 1.5. Test implementation
+The following elements are needed to be ready before the test execution phase begins:
+* Roles and human resource are alocated
+* The sistem is up and running : [environment](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
+* Both bank manager user and customer user are created: customer user: Ana-Maria Cismaru/ bank manager account - user: John Malkovici/ password: johnswife1
+* Cycle summery was created
+* Test cases were added to the cycle summery
+* Postman collection with the dependents API methods was created
+* Authorization token was created for accessing the API.
+
+
