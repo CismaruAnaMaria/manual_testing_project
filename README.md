@@ -188,6 +188,10 @@ The Dashboard was created and you can see it below:
 
 ![CREATED VS REPORTED](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/2fc659b4-9f15-4436-8d36-5bee8e20f9c6)
 
+![Postman Monitor](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Monitor%20postman%20.jpg)
+![Postman Run Collection negative testing](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Run%20collection%20negative%20testing.jpg)
+![Postman Run Collection negative testing](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Run%20collection%20POstman%20negative.jpg)
+
 # SQL Section
 I have created my own database and have made same querys with it.
 ![SQL Diagram](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Banking_database_schema_EER_Diagram.jpg)
