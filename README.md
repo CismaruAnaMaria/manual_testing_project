@@ -161,3 +161,8 @@ The Dashboard was created and you can see it below:
 ![TEST EXECUTION](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/95a4f9d0-681f-4e68-bc31-e2d5017c5a8b)
 
 ![CREATED VS REPORTED](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/2fc659b4-9f15-4436-8d36-5bee8e20f9c6)
+
+# SQL Section
+I have created my own database and have made same querys with it.
+![SQL Diagram](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Banking_database_schema_EER_Diagram.jpg)
+* The SQL queries done for this project can be found [Here](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/bank_DB.sql)
