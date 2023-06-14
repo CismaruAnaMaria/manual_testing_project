@@ -3,7 +3,7 @@
 The scope of the final project is to use and show all the knowledge I have learned through the course and from self research and to apply them when using a live application.
 * Application under test: [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
 
-I have created my own documentation in order to find bugs and static testing issues. The application come without any original documentation.
+I have created my own documentation in order to find bugs and static testing issues. The application comes without any original documentation.
 * Documentation: [Documentation for XYZ Bank](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx).
 * API documentation: [Simple Book Api Documentation](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
 
@@ -14,7 +14,7 @@ Tool used: **Jira, Zephyr Squad, Postman, SQL Workbench, Github.**
 # Functional Specification
 * The business requirments can be found [here](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx).
 
-The **XYZ Bank** application it's an application created for the usability both of the costumers and the bank manager. With this app the customer should be able to check his bank account and see the transactions he has made over one period, the credit balance and he can deposit or withdrawal money to and from his bank account.
+The **XYZ Bank** application is an application created for the usability both of the costumers and the bank manager. With this app the customer should be able to check his bank account and see the transactions that the customer has made over one period, the credit balance and he can deposit or withdrawal money to and from the customer bank account.
 ![image](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/7ff69070-bc54-416d-8f65-1ff843a7fe48)
 ![epic2](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/fbcb1abe-798e-44f6-9e13-85f5fb5e823f)
 ![epic 2 1 1](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/170d50f5-8e00-4a15-acb0-d879ad8b75ce)
@@ -22,7 +22,7 @@ The **XYZ Bank** application it's an application created for the usability both 
 ## **1.1. Test planning**
 * The Test Planning is designed to describe all the details of the testing of the [XYZ Bank application](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
 
-This section - test planning -will identify the items that will be tested, the futures to be tested, the types of the testing that will be performed and it will also define the entrence and exist criteria that needs to be completed, the assignee roles for the project and all the human resorces that will be in charge. 
+This section - test planning -will identify the items that will be tested, the futures to be tested, the types of the testing that will be performed and it will also define the entrence and exit criteria that needs to be completed, the assignee roles for the project and all the human resorces that will be in charge. 
 The testing allocated time and financial resources will be defined, along with the risk associated with the plan.
 
 #### 1.1.1. Roles assigned for the testing project and the human resource 
@@ -38,7 +38,7 @@ The testing allocated time and financial resources will be defined, along with t
 #### 1.1.3. Exit criteria defined
 * All test cases created are executed
 * At least 75% of the executed test cases have the status passed
-* There is a maximum of 4 high rated bugs opened and they are assignee to the developer to be fixed
+* There is a maximum of 4 high rated bugs opened and they are assigned to the developer to be fixed
 * There is a maximum of 10 open bugs and no critical bug can be opened.
 * The regression test needs to be done
 * Testing deadline 30.06.2023
@@ -63,7 +63,7 @@ It was done by generating periodic reports that reflect the current status of th
 ![Run Collection Postman](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/POSTMAN%20RUN%20COLLECTION.jpg)
 
 ## ** 1.3. Test Analysis**
-* The above [requirments](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx) were reviewd for the Ui testing and for the Api testing I've have followed the [documentation]() and work with it.
+* The above [requirements](https://github.com/CismaruAnaMaria/manual_testing_project/blob/main/Documentatie%20pt%20xyz%20bank.docx) were reviewd for the Ui testing and for the Api testing I've followed the [documentation]() and work with it.
 * 
 !During the review, some defects were raised and you can check them here:![MTFP-36](https://github.com/CismaruAnaMaria/manual_testing_project/assets/134077299/a41ecfdc-2f5c-4d68-a49d-67cbc10ba7ef)
 
@@ -73,7 +73,7 @@ It was done by generating periodic reports that reflect the current status of th
 * Check if the bank manager can add a customer;
 * Check if the bank manager can open an account;
 * Check if the new customer is added to the customer list;
-* Check if the bank manager cand delete a customer;
+* Check if the bank manager can delete a customer;
 * Check if the customer can login;
 * Check if customer has a list with his transactions;
 * Check if customer can see transactions between a period known;
@@ -139,11 +139,11 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 ## ** 1.5. Test implementation
 The following elements are needed to be ready before the test execution phase begins:
-* Roles and human resource are alocated
-* The sistem is up and running : [environment](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
+* Roles and human resources are alocated
+* The system is up and running : [environment](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
 * Both bank manager user and customer user are created: customer user: Ana-Maria Cismaru/ bank manager account - user: John Malkovici/ password: johnswife1
-* Cycle summery was created
-* Test cases were added to the cycle summery
+* Cycle summary was created
+* Test cases were added to the cycle summary
 * Postman collection with the dependents API methods was created
 * Authorization token was created for accessing the API.
 
